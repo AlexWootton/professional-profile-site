@@ -1,6 +1,5 @@
 {
   "name": "professional-profile-site",
-  "homepage": "https://alexwootton.github.io/professional-profile-site",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
